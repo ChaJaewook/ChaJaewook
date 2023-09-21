@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaJaewook&show_icons=true&theme=radical)
 <div>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ChaJaewook&color=dark)](https://velog.io/@somm)
+
 </div>
  
