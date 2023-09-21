@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ChaJaewook&color=dark)](https://velog.io/@somm)
+</div>
+ 
